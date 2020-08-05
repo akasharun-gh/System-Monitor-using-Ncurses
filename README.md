@@ -8,6 +8,10 @@ The project follows an object-oriented programming approach and implements a Lin
 
 To install ncurses within Linux environment: `sudo apt install libncurses5-dev libncursesw5-dev`
 
+<p align="center">
+<img src="images/monitor.png" title="monitor output">
+</p>
+
 ## Make
 This project uses [Make](https://www.gnu.org/software/make/). The Makefile has four targets:
 * `build` compiles the source code and generates an executable
